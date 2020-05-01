@@ -3,6 +3,11 @@
 This project is to demonstrate the ability of creating flexible pipelines with Apache Beam.
 This project also utilize beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
 
+Note:
+https://cloud.google.com/sdk/install
+https://pypi.org/project/beam-nuggets/
+https://beam.apache.org/get-started/downloads/
+
 
 from google.cloud import pubsub_v1
 import apache_beam as beam
