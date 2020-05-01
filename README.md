@@ -50,4 +50,22 @@ For example:
 subscriber = pubsub_v1.SubscriberClient()
 subscriber.subscribe(subscription_path, callback=callback)"
 
+============================================================================================================
+Instructions for execution:
+
+dkwok-MBP:BeamTest dkwok$ virtualenv dkwok_env
+
+virtualenv dkwok_env
+
+dkwok-MBP:BeamTest dkwok$ source dkwok_env/bin/activate
+
+source dkwok_env/bin/activate
+
+python subscibe.py
+
+python processSlide.py
+
+python publish.py
+
+
 
