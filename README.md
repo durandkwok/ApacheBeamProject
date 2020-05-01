@@ -1,6 +1,7 @@
 # BeamProject
 
-Project of testing flexible pipeline with Apache Beam. This project also utilize beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
+Project of creating flexible pipeline with Apache Beam. 
+This project also utilize beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
 
 
 from google.cloud import pubsub_v1
