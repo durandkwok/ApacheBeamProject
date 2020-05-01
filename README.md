@@ -5,7 +5,9 @@ This project also utilize beam_nugget which has a library for Apache Kafka as we
 
 Note:
 https://cloud.google.com/sdk/install
+
 https://pypi.org/project/beam-nuggets/
+
 https://beam.apache.org/get-started/downloads/
 
 
