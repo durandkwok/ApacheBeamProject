@@ -1,6 +1,6 @@
 # BeamProject
 
-Project of creating flexible pipeline with Apache Beam. 
+This project is to demonstrate the ability to create flexible pipelines with Apache Beam.
 This project also utilize beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
 
 
