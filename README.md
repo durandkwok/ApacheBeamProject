@@ -4,6 +4,7 @@ This project is to demonstrate the ability of creating flexible pipelines with A
 This project also utilize beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
 
 Note:
+
 https://cloud.google.com/sdk/install
 
 https://pypi.org/project/beam-nuggets/
