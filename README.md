@@ -13,7 +13,9 @@ https://beam.apache.org/get-started/downloads/
 
 
 from google.cloud import pubsub_v1
+
 import apache_beam as beam
+
 from beam_nuggets.io import kafkaio
 
 
