@@ -3,7 +3,7 @@
 Apache Beam Overview
 Apache Beam is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. Using one of the open source Beam SDKs, you build a program that defines the pipeline. The pipeline is then executed by one of Beam’s supported distributed processing back-ends, which include Apache Apex, Apache Flink, Apache Spark, and Google Cloud Dataflow.
 
-This project is to demonstrate the ability of creating flexible pipelines with Apache Beam. This project also utilizes beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
+This project is to demonstrate the ability of creating flexible pipelines with Apache Beam SDK. This project also utilizes beam_nugget which has a library for Apache Kafka as well as Google Cloud Platform SDK.
 
 Note:
 
