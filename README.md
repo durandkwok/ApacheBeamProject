@@ -56,6 +56,7 @@ https://cloud.google.com/sdk/docs/downloads-interactive
 
 Use the following to install Apache Beam
 https://beam.apache.org/get-started/quickstart-py/
+https://beam.apache.org/get-started/downloads/
 
 Use the following to install Beam Nugget for Kafka
 https://pypi.org/project/beam-nuggets/
