@@ -24,7 +24,9 @@ For example:
 and
 
 "with beam.Pipeline(options=PipelineOptions()) as p:
-notifications = (p | "Creating data" >> beam.Create([('dev_1', '{"device": "0001", status": "healthy"}')]) | "Creating data" >> beam.Create([('Kafka:',event_data )]) | "Pushing messages to Kafka" >> kafkaio.KafkaProduce(topic='ORIG', servers="localhost:9092")"
+notifications = (p | "Creating data" >> beam.Create([('dev_1', '{"device": "0001", status": "healthy"}')]) 
+| "Creating data" >> beam.Create([('Kafka:',event_data )]) 
+| "Pushing messages to Kafka" >> kafkaio.KafkaProduce(topic='ORIG', servers="localhost:9092")"
 
 
 process.py or processSlide.py - demonstrates the use of sliding window vs tumbling window then write to Google Pub/Sub 
